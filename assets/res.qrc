@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="image1">
+    <file>tes.jpg</file>
+  </qresource>
+  <qresource prefix="image2">
+    <file>Logo_BUMN_Untuk_Indonesia_2020.png</file>
+  </qresource>
+  <qresource prefix="image3">
+    <file>0049-logo-pjb-removebg-preview.png</file>
+    <file>0049-logo-pjb.jpg</file>
+  </qresource>
+</RCC>
